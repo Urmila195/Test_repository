@@ -6,6 +6,9 @@ public class Cromedriverclass {
 		// TODO Auto-generated method stub
 
 		System.out.println("Launching chrome driver");
+
+		return 0;
+		// called destructor
 	}
 
 }
