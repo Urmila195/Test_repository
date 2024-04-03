@@ -6,6 +6,8 @@ public class Test_Fun {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test");
+		System.out.println("will try to for Sun, Mun");
+		
 
 	}
 
