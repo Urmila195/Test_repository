@@ -10,5 +10,5 @@ public class Cromedriverclass {
 		
 		// called destructor
 	}
-// ok sgl double krav lagel kay? status, commit,....ho
+
 }
