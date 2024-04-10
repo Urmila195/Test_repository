@@ -11,7 +11,7 @@ public class LaunchChrome {
 		WebDriver driver = new ChromeDriver ();
 		driver.get("https://qatest2.angular.nimbustest.xyz/login");
 		System.out.println(driver.getTitle());
-		
+		// browser launched successfully 
 	}
 
 }
